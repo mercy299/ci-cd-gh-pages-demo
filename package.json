@@ -1,4 +1,3 @@
-
 {
   "name": "ci-cd-gh-pages-demo",
   "version": "1.0.0",
@@ -19,6 +18,20 @@
   },
   "devDependencies": {
     "eslint": "^8.0.0",
-    "gh-pages": "^5.0.0"
+    "eslint-config-prettier": "^10.1.5",
+    "gh-pages": "^5.0.0",
+    "prettier": "^3.6.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
