@@ -1,0 +1,24 @@
+
+{
+  "name": "ci-cd-gh-pages-demo",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://github.com/mercy299/ci-cd-gh-pages-demo.git",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --watchAll=false",
+    "lint": "eslint src --ext .js,.jsx",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "gh-pages": "^5.0.0"
+  }
+}
