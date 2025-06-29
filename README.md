@@ -31,5 +31,5 @@ See `.github/workflows/deploy.yml`.
 
 ## ✅ Live URL
 ```
-https://github.com/mercy299/ci-cd-gh-pages-demo.git
+https://mercy299.github.io/ci-cd-gh-pages-demo/
 ```
