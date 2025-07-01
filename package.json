@@ -2,7 +2,7 @@
   "name": "ci-cd-gh-pages-demo",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/mercy299/ci-cd-gh-pages-demo.git",
+  "homepage": "https://mercy299.github.io/ci-cd-gh-pages-demo/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
