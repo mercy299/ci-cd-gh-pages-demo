@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ci-cd-gh-pages-demo/static/js/main.53fa9174.js",
+    "main.js": "/ci-cd-gh-pages-demo/static/js/main.a5f6621a.js",
     "index.html": "/ci-cd-gh-pages-demo/index.html",
-    "main.53fa9174.js.map": "/ci-cd-gh-pages-demo/static/js/main.53fa9174.js.map"
+    "main.a5f6621a.js.map": "/ci-cd-gh-pages-demo/static/js/main.a5f6621a.js.map"
   },
   "entrypoints": [
-    "static/js/main.53fa9174.js"
+    "static/js/main.a5f6621a.js"
   ]
 }
